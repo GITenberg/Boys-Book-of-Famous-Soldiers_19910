@@ -1,0 +1,32 @@
+_repo: Boys-Book-of-Famous-Soldiers_19910
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McSpadden, J. Walker (Joseph Walker)
+    aliases:
+    - McSpadden, Joseph Walker
+    - Walker, Joseph
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '437'
+    url: http://www.gutenberg.org/2009/agents/437
+description: ''
+gutenberg_issued: '2006-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- Biography'
+- !lcc 'CT'
+- !lcsh 'Generals'
+tableOfContents: Washington -- Grant -- Lee -- Napoleon -- Wellington -- Gordon --
+  Roberts -- Kitchener -- Haig -- Joffre -- Foch -- Pershing.
+title: Boys' Book of Famous Soldiers
+url: http://www.gutenberg.org/ebooks/19910
